@@ -7,7 +7,7 @@
 
 ---
 
-### :computer Este repositório contém o conteúdo desenvolvido durante a formação HTML e CSS da Alura Cursos online. </br> </br>
+### :computer: Este repositório contém o conteúdo desenvolvido durante a formação HTML e CSS da Alura Cursos online. </br> </br>
 
 
 #### DESCRIÇÃO:
