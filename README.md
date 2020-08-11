@@ -21,7 +21,7 @@ A Formação HTML e CSS da Alura foi pensada para você começar do zero e se to
 
 A base de todo desenvolvimento Web é um bom HTML. Mais que aprender tags, é saber a importância de um código semântico e bem estruturado. Em cima disso, aplicamos o layout CSS que também é muito mais que apenas colocar uma cores e firulas por aí. É muito fácil escrever códigos HTML e CSS ruins. E é muito fácil não dar a atenção devida a esses fundamentos da Web. Mas não é o que recomendamos. Bons estudos!
 
-Projeto desenvolvido [Barbearia Alura](http://https://github.com/felipemimoura/FormacaoHTMLCSS/tree/master/barberiaAlura "Barbearia Alura") 
+Projeto desenvolvido [Barbearia Alura](https://github.com/felipemimoura/FormacaoHTMLCSS/tree/master/barberiaAlura "Barbearia Alura") 
 
 #### :computer: 2 - Sites feitos para todos
 Ao criarmos um produto queremos que ele atinja o maior número de pessoas possível. Assim temos uma maior chance desse produto ser um sucesso. Para isso, não podemos deixar de fora pessoas com algum tipo de limitação ou dificuldade.
