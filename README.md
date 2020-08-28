@@ -45,9 +45,9 @@ Com a quantidade de dispositivos que acessam nossos sites todos os dias, e a qua
 
 #### Evolução:
 - 32h / 190h;
-- 4 / 17 cursos;
+- 8 / 17 cursos;
 - 0 / 2 podcast
-- 2 / 13 Artigos
+- 3 / 13 Artigos
 ---
 
 <h4 align="center">
