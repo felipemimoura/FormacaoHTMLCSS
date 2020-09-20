@@ -50,7 +50,7 @@ Atualmente é muito difícil achar sites 100% estáticos, por isso que desenvolv
 - Animações com JS;
 - Ajax.
 
-#### Projeto desenvolvido [Aparecida Nutrição]("Aparecida Nutrição")
+#### Projeto desenvolvido [Aparecida Nutrição](https://github.com/felipemimoura/AparecidaNutricao "Aparecida Nutrição")
 
 ### :computer: 4 - Interfaces avançadas com CSS
 A Web de antigamente parava em algumas poucas propriedades do CSS. Mas não mais. O mundo evoluiu, novas exigências surgiram, e a Web cresceu junto. Agora você vai mergulhar em técnicas e tecnologias mais recentes e profundas, que vão te trazer um outro olhar ao desenvolvimento front-end.
