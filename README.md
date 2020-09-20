@@ -56,6 +56,25 @@ Atualmente é muito difícil achar sites 100% estáticos, por isso que desenvolv
 A Web de antigamente parava em algumas poucas propriedades do CSS. Mas não mais. O mundo evoluiu, novas exigências surgiram, e a Web cresceu junto. Agora você vai mergulhar em técnicas e tecnologias mais recentes e profundas, que vão te trazer um outro olhar ao desenvolvimento front-end.
 
 Desde pré-processamento de CSS com SASS até o uso de ferramentas de debug, passando por layouts avançados com flexbox. E, o mais importante, como lidar com o mundo multidispositivo que temos hoje com a criação de sites responsivos e mobile-first.
+
+<b>Sass e Compass Descomplicando o css</b>
+- Instalação do Sass e compass
+- Utilização de Mixin;
+- Importação de elementos;
+- Media Queries (responsividade);
+- Placeholders
+
+#### Projeto desenvolvido [Apperia utilizando Sass](https://github.com/felipemimoura/ApperiaComSass "Apperia com Sass") 
+
+<b> FlexBox</b>
+- Posicionamento de Elementos;
+- Display Flex;
+- Espaçamento com Flex;
+- Alinhamento Horizontal;
+- Responsivdade com Flex;
+
+#### Projeto desenvolvido [Alurinha Cursos](https://github.com/felipemimoura/FlexBox "Alurinha Cursos") 
+
 ### :computer: 5 - Layouts Responsivos
 A grande diversidade de tamanhos, formatos e resoluções de telas atualmente torna impossível criarmos um site que não seja responsivo. Cada vez mais os usuários querem uma experiência ótima independente se estão trabalhando no computador, celular ou tablet e isso torna impressindivel sabermos como criar sites que se adaptam à tela que estamos usando.
 ### :computer: 6 - Arquitetura CSS
