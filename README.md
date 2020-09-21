@@ -98,6 +98,8 @@ Pensando nisso foram criados alguns padrões que se seguidos desde o inicio do p
 - Atomic Desing;
 - Metodologia BEM para nomear as classes CSS
 
+#### Projeto desenvolvido [Fruta e Fruto](https://github.com/felipemimoura/FormacaoHTMLCSS/tree/master/arquiteturaCSS "Fruta e Fruto com BEM") 
+
 ### :computer: 7 - Otimizações e Performance
 Com a quantidade de dispositivos que acessam nossos sites todos os dias, e a quantidade cada vez maior de animações, efeitos e interações sendo colocadas no front-end é essencial que você entenda como a web funciona e como podemos utilizar melhor os recursos para tornar nossos sites cada vez mais rápidos.
 
