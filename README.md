@@ -77,10 +77,27 @@ Desde pré-processamento de CSS com SASS até o uso de ferramentas de debug, pas
 
 ### :computer: 5 - Layouts Responsivos
 A grande diversidade de tamanhos, formatos e resoluções de telas atualmente torna impossível criarmos um site que não seja responsivo. Cada vez mais os usuários querem uma experiência ótima independente se estão trabalhando no computador, celular ou tablet e isso torna impressindivel sabermos como criar sites que se adaptam à tela que estamos usando.
+
+<b>Bootstrap</b>
+- Instação do Bootstrap 4 no projeto;
+- Adapatação dos modelos do botstrap;
+- Alinhamento do texto;
+- Display Flex e Grid com o bootstrap;
+- Aplicação de Modais
+
+#### Projeto desenvolvido [Fruta e Fruto](https://github.com/felipemimoura/FormacaoHTMLCSS/tree/master/bootstrap4 "Fruta e Fruto") 
+
+
 ### :computer: 6 - Arquitetura CSS
 Se não tomarmos cuidado, em projetos grandes, é muito comum não sabermos mais onde as coisas se encontram além de vermos uma mistura de padrões de nomes das classes e IDs dos nossos objetos.
-
 Pensando nisso foram criados alguns padrões que se seguidos desde o inicio do projeto facilitam a vida de quem estiver desenvolvendo um projeto maior.
+
+<b>Arquitura CSS </b>
+- Seletores CSS mais simples;
+- Organização básica de um projeto CSS;
+- Atomic Desing;
+- Metodologia BEM para nomear as classes CSS
+
 ### :computer: 7 - Otimizações e Performance
 Com a quantidade de dispositivos que acessam nossos sites todos os dias, e a quantidade cada vez maior de animações, efeitos e interações sendo colocadas no front-end é essencial que você entenda como a web funciona e como podemos utilizar melhor os recursos para tornar nossos sites cada vez mais rápidos.
 

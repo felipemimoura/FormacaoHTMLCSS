@@ -11,10 +11,10 @@
   height: 500px;
 }
 .fonte-titulo{
-font-family: 'Pacifico', cursive;
+  font-family: 'Pacifico', cursive;
 }
 .cor-especial{
-  color: darkred;
+  color: darkred !important;
 }
 .botao-cor-especial{
   background-color: darkred;
